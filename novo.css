@@ -217,6 +217,11 @@ strong.especial {
     height: 90% ;
 }
 
+.final img {
+     width: 32px;
+}
+
+
 .assistir {
 
     text-decoration: none;
