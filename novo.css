@@ -92,6 +92,10 @@ main {
    
 }
 
+main img {
+    width: 100%;
+}
+
 strong.especial {
 
     background-color: rgba(255, 255, 0, 0.322);
